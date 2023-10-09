@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Pugik's Github Stats](https://github-readme-stats.vercel.app/api/?username=pugik&count_private=true&theme=tokyonight&showicons=true)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pugik&langs_count=5&theme=tokyonight)
 
 <!--
